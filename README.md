@@ -35,7 +35,7 @@ Currently building my portfolio around:
 
 | Project | Description | Stack |
 |---|---|---|
-| [n8n Accounting Automation](link) | AI-powered personal finance workflow | n8n · Python · OpenAI |
+| [n8n Accounting Automation]([link](https://github.com/renatogcatalan/n8n-accounting-automation)) | AI-powered personal finance workflow | n8n · Python · OpenAI |
 | [Churn Prediction Pipeline](link) | End-to-end ML pipeline with experiment tracking | Scikit-learn · MLflow · FastAPI |
 | [LLM Text Classifier](link) | Claims analysis using LLMs and structured outputs | Python · OpenAI API · Pandas |
 
