@@ -24,7 +24,7 @@ Currently building my portfolio around:
 ## 🛠️ Tech Stack
 
 **Languages:** Python · SQL  
-**ML & MLOps:** Scikit-learn · Hugging Face  
+**ML & MLOps:** Scikit-learn · FastAPI 
 **Automation:** n8n · Make  
 **BI & Data:** Power BI · Pandas · Matplotlib  
 **Processes:** BPMN 2.0 · Bizagi  
@@ -35,15 +35,12 @@ Currently building my portfolio around:
 
 | Project | Description | Stack |
 |---|---|---|
-| [n8n Accounting Automation](https://github.com/renatogcatalan/n8n-accounting-automation) | AI-powered personal finance workflow | n8n · Python · OpenAI |
-| [Churn Prediction Pipeline](link) | End-to-end ML pipeline with experiment tracking | Scikit-learn · MLflow · FastAPI |
-| [LLM Text Classifier](link) | Claims analysis using LLMs and structured outputs | Python · OpenAI API · Pandas |
+| [n8n Accounting Automation](https://github.com/renatogcatalan/n8n-accounting-automation) | AI-powered personal finance workflow | n8n · Python · Gemini |
 
 ---
 
 ## 📚 Currently learning
 - MLOps with Python — Duke University (Coursera)
-- Building production-ready AI agents
 
 ---
 
